@@ -1,10 +1,10 @@
 # Meu Primeiro Projeto
 
-Uma breve descrição do que o projeto faz e qual problema ele resolve.
+Gestor financeiro de aluguel.
 
 ## 📋 Sobre o projeto
 
-Explique aqui com mais detalhes o objetivo do projeto, o que motivou você a criá-lo e o que ele faz na prática.
+Esse projeto foi criado com o intuito de facilitar o cadastro e o controle financeiro dos inquilinos em um residencial.
 
 ## 🚀 Tecnologias usadas
 
